@@ -1,4 +1,6 @@
 ### Hi, I'm Jack 👋
+- Fourth year Economics Honours student at Simon Fraser University
+- Currently working as a reasearch assistant for [Professor Hendrik Wolff][hendriklink] specializing in environmental economics and urban mobility 
 
 ### Languages and Tools:
 
@@ -12,6 +14,7 @@
 <br />
 <br />
 
+[hendriklink]: http://www.sfu.ca/economics/about/faculty/current/hendrik-wolff.html
 [githubsite]: https://github.com/
 [latexsite]: https://www.latex-project.org/
 [pythonsite]: https://www.python.org/
