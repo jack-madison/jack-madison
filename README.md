@@ -2,6 +2,7 @@
 - Fourth year Economics Honours student at Simon Fraser University
 - Currently working as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] specializing in Environmental Economics and Urban Mobility 
 - Academic interests include: Health Economics, Industrial Organization, and Microeconomics
+- Currently learning JavaScript!
 
 ### Languages and Tools:
 
@@ -22,18 +23,3 @@
 [rsite]: https://www.r-project.org/
 [sqlsite]: https://en.wikipedia.org/wiki/SQL
 [vssite]: https://code.visualstudio.com/
-
-<!--
-**jack-madison/jack-madison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
