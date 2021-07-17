@@ -1,6 +1,7 @@
 ### Hi, I'm Jack 👋
 - Fourth year Economics Honours student at Simon Fraser University
 - Currently working as a reasearch assistant for [Professor Hendrik Wolff][hendriklink] specializing in environmental economics and urban mobility 
+- Academic interests include: health economics, industrial organization, and microeconomics
 
 ### Languages and Tools:
 
