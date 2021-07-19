@@ -1,6 +1,6 @@
 ### Hi, I'm Jack!
 - Fourth year Economics Honours student at [Simon Fraser University][sfueconlink] (4.17 GPA)
-- Currently working as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] as a part of the [Self Driving Cities][sdclink] team specializing in Environmental Economics and Urban Mobility 
+- Currently working as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] as a part of the [Self Driving Cities][sdclink] team, specializing in Environmental Economics and Urban Mobility 
 - Academic interests include: Health Economics, Industrial Organization, and Microeconomics
 - Currently learning JavaScript!
 
