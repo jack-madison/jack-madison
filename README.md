@@ -1,7 +1,7 @@
 ### Hi, I'm Jack!
 - Fourth year Economics Honours student at [Simon Fraser University][sfueconlink] (4.17 GPA)
 - Currently working as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] specializing in Environmental Economics and Urban Mobility 
-- Academic interests include: Health Economics, Industrial Organization, and Microeconomics
+- Academic interests include: Health Economics, Industrial Organization, Environmental Economics, and Microeconomic Theory
 - Currently learning JavaScript!
 
 ### Languages and Tools:
