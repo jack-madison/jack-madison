@@ -1,5 +1,5 @@
 ### Hi, I'm Jack!
-- Recent BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
+- BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
 - Previously worked as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] specializing in Environmental Economics and Urban Mobility 
 - Academic interests include: Health Economics, Industrial Organization, Environmental Economics, and Microeconomic Theory
