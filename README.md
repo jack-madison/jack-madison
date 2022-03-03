@@ -3,6 +3,7 @@
 - Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
 - Previously worked as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] specializing in Environmental Economics and Urban Mobility 
 - Academic interests include: Health Economics, Industrial Organization, Environmental Economics, and Microeconomic Theory
+- See my full CV [here][fullCV]
 
 ### Languages and Tools:
 
@@ -17,6 +18,7 @@
 [sfueconlink]: http://www.sfu.ca/economics.html
 [hendriklink]: http://www.sfu.ca/economics/about/faculty/current/hendrik-wolff.html
 [hitoshilink]: https://www.sfu.ca/economics/about/faculty/current/hitoshi-shigeoka.html
+[fullCV]: https://github.com/jack-madison/jack-madison/raw/main/jack_madison_CV.pdf
 [sdclink]: https://github.com/Self-Driving-Cities
 [githubsite]: https://github.com/
 [latexsite]: https://www.latex-project.org/
