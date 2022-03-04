@@ -1,0 +1,136 @@
+\documentclass[]{article}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\textheight=10in
+\pagestyle{empty}
+\raggedright
+
+%\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\vspace*{-40pt}
+
+    
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge {Jack Madison}}\\
+	jack-madison@outlook.com $\cdot$ (604)-785-4222 $\cdot$ github.com/jack-madison\\
+\end{center}
+
+%==== Education ====%
+\header{Education}
+\textbf{Simon Fraser University}\hfill Burnaby, BC\\
+Bachelor of Arts Honours Economics \hfill May 2017 - August 2021\\
+\begin{itemize}
+    \item GPA: 4.16/4.33 Cumulative, First Class with Distinction
+    \item Undergraduate Thesis: "A Tough Pill to Swallow: Investigating the Impact of Advertising to Physicians on Opioid Prescribing Patterns"
+    \item Relevant coursework: Honours Research Project, Advanced Macroeconomic Theory, Advanced Microeconomic Theory, Econometric Methods, Health Economics, Industrial Organization
+    \item Awards: Presidents Honour Roll (Fall 2018 and Spring 2020) and Undergraduate Open Scholarship (2018 - 2020)
+\end{itemize}
+
+\vspace{2mm}
+
+%==== Experience ====%
+\header{Work Experience}
+\vspace{1mm}
+
+\textbf{Simon Fraser University} \hfill Burnaby, BC\\
+\textit{Research Assistant} \hfill September 2021 - Present\\
+\begin{itemize}
+    \item Work as a research assistant for Dr. Hitoshi Shigeoka examining the effect of pollen exposure on various health outcomes from an economic perspective
+    \item Collect and clean Google Trends, Twitter, and pollen count data from Japan using Python 
+    \item Conduct literature reviews on the health implications of pollen, pollution, and temperature
+\end{itemize}
+
+\textbf{Elite Educational Institute} \hfill Vancouver, BC\\
+\textit{AP Economics Teacher} \hfill September 2021 - December 2021\\
+\begin{itemize}
+    \item Cultivated curiosity about economic theories and examined current events through the use of economic models highlighted in class
+    \item Lectured two classes a week, microeconomics and macroeconomics, communicating quantitative material with precision and clarity
+\end{itemize}
+
+\textbf{Simon Fraser University} \hfill Burnaby, BC\\
+\textit{Research Assistant} \hfill May 2020 - August 2021\\
+\begin{itemize}
+    \item Worked as a research assistant on a team led by Dr. Hendrik Wolff investigating the effects of the COVID-19 pandemic on urban mobility
+    \item Collected data on bike share programs, bike counters, and car share programs from APIs and mobile apps using Python
+    \item Assisted in the editorial process for the Journal of Environmental Economics and Management
+    \item Received Simon Fraser University's Undergraduate Student Research Award (Summer 2020 - Summer 2021) 
+\end{itemize}
+
+\textbf{Robin\textquotesingle{}s Pharmacy Ltd.} \hfill Vancouver, BC\\
+\textit{Pharmacy Assistant} \hfill July 2010 - February 2017\\
+\begin{itemize}
+    \item Created and maintained a prescription filing and retrieval system in accordance with the BC College of Pharmacists guidelines
+    \item Filled walk-in patient’s prescriptions and prepared weekly medication blister packages for mental health facilities with speed and accuracy
+\end{itemize}
+
+\header{Technical Skills}
+\begin{itemize}
+    \item Collect, clean, and analyse data in Python using libraries such as Pandas, NumPy, scikit-learn, Matplotlib, and Requests
+    \item Clean data, conduct analysis, and create informative graphics in R using packages such as dplyr, tidyverse, sandwich, and ggplot2
+    \item Run regressions and prepare data in STATA
+    \item Simulate macroeconomic shocks given various central bank policy rules in MATLAB using Dynare
+    \item Produce academic papers and coursework in \LaTeX
+\end{itemize}
+
+\end{document}
