@@ -3,7 +3,7 @@
 - Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
 - Previously worked as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] specializing in Environmental Economics and Urban Mobility 
 - Academic interests include: Health Economics, Industrial Organization, Environmental Economics, and Microeconomic Theory
-- Download my full [CV][fullCV]
+- Download my full [CV][fullCV] (March 2022)
 
 ### Languages and Tools:
 
