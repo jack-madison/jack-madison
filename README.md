@@ -1,4 +1,5 @@
 ### Hi, I'm Jack!
+- Incoming Master's Student at the [Toulouse School of Economics][tselink]
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
 - Previously worked as a Reasearch Assistant for [Professor Hendrik Wolff][hendriklink] specializing in Environmental Economics and Urban Mobility 
@@ -15,6 +16,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vssite]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubsite]
 
+[tselink]: https://www.tse-fr.eu/
 [sfueconlink]: http://www.sfu.ca/economics.html
 [hendriklink]: http://www.sfu.ca/economics/about/faculty/current/hendrik-wolff.html
 [hitoshilink]: https://www.sfu.ca/economics/about/faculty/current/hitoshi-shigeoka.html
