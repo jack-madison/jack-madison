@@ -2,8 +2,8 @@
 - Incoming Master's Student at the [Toulouse School of Economics][tselink]
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
-- Academic interests include: Health Economics, Industrial Organization, Environmental Economics, and Microeconomic Theory
-- Download my full [CV][fullCV] (April 2022)
+- Academic interests include: Health Economics, Industrial Organization, and Microeconomic Theory
+- Download my full [CV][fullCV] (May 2022)
 
 ### Languages and Tools:
 
