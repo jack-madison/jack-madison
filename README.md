@@ -1,5 +1,4 @@
 ### Hi, I'm Jack!
-- Incoming Master's Student at [Toulouse School of Economics][tselink]
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
 - Academic interests include: Health Economics, Industrial Organization, and Microeconomic Theory
