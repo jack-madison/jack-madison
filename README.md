@@ -1,7 +1,8 @@
 ### Hi, I'm Jack!
+- MA Economics student at [University of British Columbia][ubclink]
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
-- Currently working as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] specializing in Health Economics
-- Academic interests include: Health Economics, Industrial Organization, and Microeconomic Theory
+- Previously worked as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] (Health Economics) and [Professor Hendrik Wolff][hendriklink] (Environmental Economics)
+- Academic interests include: Industrial Organization and Game Theory
 - Download my full [CV][fullCV] (June 2022)
 
 ### Languages and Tools:
@@ -27,3 +28,4 @@
 [rsite]: https://www.r-project.org/
 [sqlsite]: https://en.wikipedia.org/wiki/SQL
 [vssite]: https://code.visualstudio.com/
+[ubclink]: https://www.ubc.ca
