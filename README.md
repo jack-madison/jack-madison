@@ -3,7 +3,7 @@
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Previously worked as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] and [Professor Hendrik Wolff][hendriklink]
 - Academic interests include: Industrial Organization and Game Theory
-- Download my full [CV][fullCV] (June 2022)
+- Download my full [CV][fullCV] (January 2023)
 
 ### Languages and Tools:
 
