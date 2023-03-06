@@ -2,7 +2,7 @@
 - MA Economics student at the [University of British Columbia][ubclink] (92% Average)
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Previously worked as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] and [Professor Hendrik Wolff][hendriklink]
-- Academic interests include: Industrial Organization and Game Theory
+- Academic interests include: Industrial Organization, Econometrics, and Game Theory
 - Download my full [CV][fullCV] (January 2023)
 
 ### Languages and Tools:
