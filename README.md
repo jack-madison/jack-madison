@@ -1,5 +1,6 @@
 ### Hi, I'm Jack!
-- MA Economics student at the [University of British Columbia][ubclink] (92% Average)
+- PhD Economics student at the [University of British Columbia][ubclink]
+- MA Economics graduate at the [University of British Columbia][ubclink] (95% Average)
 - BA Honours Economics graduate from [Simon Fraser University][sfueconlink] (4.16/4.33 GPA)
 - Previously worked as a Research Assistant for [Professor Hitoshi Shigeoka][hitoshilink] and [Professor Hendrik Wolff][hendriklink]
 - Academic interests include: Industrial Organization, Econometrics, and Game Theory
@@ -7,6 +8,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/743164?s=48&v=4" />][juliasite] 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonsite]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rsite]
 [<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlabsite]
